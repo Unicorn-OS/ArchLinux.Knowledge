@@ -1,0 +1,1 @@
+- [ThePrimeagen: Programming, AI, ADHD, Productivity, Addiction, and God | Lex Fridman Podcast #461](https://youtu.be/tNZnLkRBYA8)
