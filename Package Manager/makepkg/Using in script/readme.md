@@ -2,6 +2,7 @@
 sch:
 - https://www.google.com/search?q=sudo+password+to+makepkg+in+script
 - https://www.google.com/search?q=pass+password+to+sudo+in+script
+- https://www.google.com/search?q=cat+password+to+makepkg
 
 ...
 - https://www.google.com/search?q=script+pass+sudo+to+makepkg
