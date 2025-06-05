@@ -1,6 +1,8 @@
 # if Makepkg asks for sudo, Heres How to Automate it.
 sch:
 - https://www.google.com/search?q=sudo+password+to+makepkg+in+script
+- https://www.google.com/search?q=pass+password+to+sudo+in+script
+
 ...
 - https://www.google.com/search?q=script+pass+sudo+to+makepkg
 - https://www.google.com/search?q=makepkg+PACMAN_AUTH
