@@ -7,3 +7,6 @@ https://www.makeuseof.com/install-and-use-yay-arch-linux/
 
 # Home:
 https://github.com/Jguer/yay
+
+# Install:
+https://github.com/Jguer/yay#installation
